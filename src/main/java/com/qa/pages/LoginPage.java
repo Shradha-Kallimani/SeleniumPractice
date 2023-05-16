@@ -9,5 +9,8 @@ public class LoginPage
 	public void LoginsetUsername() {
 		System.out.println("Username");
 	}
+	public void LoginsetPassword() {
+		System.out.println("Password");
+	}
 	
 }
