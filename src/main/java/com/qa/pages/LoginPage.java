@@ -6,6 +6,8 @@ public class LoginPage
 		System.out.println("Login Page");
 	}
 	
-	
+	public void LoginsetUsername() {
+		System.out.println("Username");
+	}
 	
 }
