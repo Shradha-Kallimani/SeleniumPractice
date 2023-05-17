@@ -13,4 +13,7 @@ public class LoginPage
 		System.out.println("Password");
 	}
 	
+	public void ClickSubmitButton() {
+		System.out.println("Click on submit button");
+	}
 }
